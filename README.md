@@ -44,6 +44,8 @@ Las capturas de pantalla están en la carpeta `capturas/`.
 
 Usé Claude (Anthropic) como apoyo para este proyecto. Me ayudó a corregir errores de sintaxis en mi código y ayuda en mi repositorio de Github
 Promps usados:
--dame la descripcion
--en que esat fallando
--como guardo los numeros en una matriz 
+Prompts principales que usé:
+
+- "Dame la descripción"
+- "¿En qué está fallando?"
+- "¿Cómo guardo los números en una matriz?"
