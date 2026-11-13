@@ -1,1 +1,45 @@
-# PROYECTO_M-DULO-4
+# Tabla de posiciones
+
+Proyecto del Módulo 4 de Python (Tecnológico de Mexicali).
+
+## Integrantes
+
+- Leonardo Madueño Mariscal
+
+## Descripción del proyecto
+
+Programa en Python que genera la tabla de posiciones de un torneo. Los nombres de los equipos ya están establecidos en el código. El programa le pide al usuario los partidos ganados, perdidos y empatados de cada equipo, calcula los puntos y muestra quién es el líder.
+
+Los puntos se calculan así:
+
+- Partido ganado: 3 puntos
+- Partido empatado: 1 punto
+- Partido perdido: 0 puntos
+
+## Qué usa el programa
+
+- **Clase `Equipo`:** agrupa los datos de cada equipo (nombre, ganados, perdidos, empates y puntos).
+- **Listas:** una lista guarda los objetos `Equipo`.
+- **Matriz:** una lista de listas guarda una fila por equipo con sus ganados, perdidos, empates y puntos.
+- **`input()`:** pide los datos al usuario.
+- **`print()` y f-strings:** muestran la matriz, la tabla de posiciones y el líder.
+
+## Cómo ejecutarlo
+
+1. Instala Python 3.
+2. Descarga `main.py`.
+3. Ejecuta en la terminal:
+
+```
+python main.py
+```
+
+4. Escribe los partidos ganados, perdidos y empatados de cada equipo cuando el programa los pida.
+
+## Ejemplo de ejecución
+
+Las capturas de pantalla están en la carpeta `capturas/`.
+
+## Declaración de uso de IA
+
+Usé Claude (Anthropic) como apoyo para este proyecto. Me ayudó a corregir errores de sintaxis en mi código, a proponer la estructura del programa y a explicarme cómo funciona cada parte. Revisé el código, lo probé y puedo explicar su funcionamiento.
