@@ -42,4 +42,8 @@ Las capturas de pantalla están en la carpeta `capturas/`.
 
 ## Declaración de uso de IA
 
-Usé Claude (Anthropic) como apoyo para este proyecto. Me ayudó a corregir errores de sintaxis en mi código, a proponer la estructura del programa y a explicarme cómo funciona cada parte. Revisé el código, lo probé y puedo explicar su funcionamiento.
+Usé Claude (Anthropic) como apoyo para este proyecto. Me ayudó a corregir errores de sintaxis en mi código y ayuda en mi repositorio de Github
+Promps usados:
+-dame la descripcion
+-en que esat fallando
+-como guardo los numeros en una matriz 
