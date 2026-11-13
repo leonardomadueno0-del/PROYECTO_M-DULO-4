@@ -2,9 +2,11 @@
 
 Proyecto del Módulo 4 de Python (Tecnológico de Mexicali).
 
-## Integrantes
+## Datos del alumno
 
-- Leonardo Madueño Mariscal
+- **Nombre:** Leonardo Madueño Mariscal
+- **Número de Control:** 26490998
+- **Fecha de entrega:** 13/11/26
 
 ## Descripción del proyecto
 
