@@ -51,3 +51,9 @@ Prompts principales que usé:
 - "Dame la descripción"
 - "¿En qué está fallando?"
 - "¿Cómo guardo los números en una matriz?"
+
+   ---
+
+## Video exposicion en DRIVE
+
+https://drive.google.com/file/d/1C-qQrJM1-UXvQ5u36awBzNVB47p6ZW0QX365M78asss/preview?usp=sharing
